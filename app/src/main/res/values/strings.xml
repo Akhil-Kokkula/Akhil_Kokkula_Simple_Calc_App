@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Akhil_Kokkula_Simple_Calc_App</string>
+    <string-array name="operations_array">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
